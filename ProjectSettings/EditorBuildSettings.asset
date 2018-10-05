@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/1.unity
+    guid: 9f639d0ce3fb3417b945def82e606c92
+  - enabled: 1
+    path: Assets/Scenes/2.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/3.unity
+    guid: 4a31b8047a9894a23b53ef8e034f4dbe
+  - enabled: 1
+    path: Assets/Scenes/4.unity
+    guid: 8162dc2d7017241c7aa6fdaafd77ca73
+  - enabled: 1
+    path: Assets/Scenes/5.unity
+    guid: a59e0692454f84bc799869ac31a923de
+  - enabled: 1
+    path: Assets/Scenes/6.unity
+    guid: f92b0692345774eaeb4149d890e73eae
+  - enabled: 1
+    path: Assets/Scenes/7.unity
+    guid: 323edfe218cd94ec6b1e94d97ec8fcf6
+  - enabled: 1
+    path: Assets/Scenes/8.unity
+    guid: 93ba1c6311ef34a5a8dab2636b8407b2
+  - enabled: 1
+    path: Assets/Scenes/YouWin.unity
+    guid: c55ff288596354289b9b324c25a1aead
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: 48aa43a06444a42ea8f79e7b6e4258d7
+  - enabled: 1
+    path: Assets/Scenes/Game Over.unity
+    guid: 994341464b9564aa682421167bcaa7ab
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 25b39a95342e444d2b479c278264404b
+  m_configObjects: {}
